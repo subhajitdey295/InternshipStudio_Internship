@@ -20,7 +20,7 @@ Methodology:-
    ➡ Data Visualization: Created compelling visual representations (charts, graphs) using Python's visualization libraries to effectively communicate complex findings.
    ➡ Dashboard Development: Integrated tabular and visual reports into an interactive Excel dashboard to provide a holistic view of sales performance and facilitate data-driven decision-making.
 
-(Google Drive Link for dataset and dashboard file: [https://drive.google.com/drive/folders/1eXUbnX3K4V1gBn9WZbUHvwmjx86MWGTU?usp=sharing])
+(Google Drive Link for dataset and dashboard file: https://drive.google.com/drive/folders/1qd_H-RoUY4oolRPb5hmBNpm1tKsN7Nt9?usp=drive_link)
 
 
 
