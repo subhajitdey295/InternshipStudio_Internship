@@ -52,7 +52,6 @@
       ➡ Forecasting Potential: Time series insights guide future sales strategies.
       ➡ Data-Driven Decisions: Enables evidence-based marketing, inventory, and sales planning.
    
- 6. Screenshot:
-    Show what the dashboard looks like: <img width="1352" height="527" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/ddb3bbaf-4927-40f7-8437-ce6282a3d926" />
+
 
 
