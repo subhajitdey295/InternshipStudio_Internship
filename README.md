@@ -1,5 +1,9 @@
 # Sales Data Analysis and Reporting for a Retail Chain
 
+<img width="1681" height="626" alt="Retail Sales Dashboard" src="https://github.com/user-attachments/assets/3cc88bdd-a3fe-419e-8a1a-e15ca29deb0b" />
+
+➡️ View the Full Business Report (PDF): [Retail Sales Analysis.pdf](https://github.com/user-attachments/files/24584395/Retail.Sales.Analysis.pdf)
+
 1. Project Title:
    Retail Sales Insights Dashboard: Data-Driven Decision Making in Excel
    A comprehensive Excel dashboard built on SQL and Python-driven analysis to uncover retail sales patterns, customer behavior, and revenue insights.
